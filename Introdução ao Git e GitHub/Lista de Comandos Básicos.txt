@@ -1,0 +1,14 @@
+#Lista de comandos básicos
+
+dir - diretorios (mostra todas as pastas)
+cd / - change directorys (leva pro diretorio C)
+cd windows leva para as pastas dentro da pasta windows
+cd .. - para voltar uma pasta acima
+cls - clear screen (limpar a tela pra não ficar poluido)
+TAB - autocompletar (ex: digito w, ele completa windows. vou apertando até achar a pasta que quero)
+mkdir - makedirectory (criar uma pasta)
+echo - printa uma frase texto, etc
+echo "palavra" > - > é redirecionador de fluxo, cria arquivo (ex: echo hello > hello.txt)
+del - deletar (só os arquivos dentro da pasta, não a pasta. ex:del workspace, deleto o que tem dentro da pasta workspace)
+î (SETA PRA CIMA) - navego no historico de comandos que já executei
+rmdir - remove directory (apagar a pasta. ex: rmdir workspace /S /Q. /S e /Q são flags, não sei pra que serve)
